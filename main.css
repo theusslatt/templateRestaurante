@@ -2,6 +2,10 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+.titulo-pgn {
+    text-decoration: none;
+}
+
 .navbar {
     background-color: #e15f41;
 }
